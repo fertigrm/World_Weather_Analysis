@@ -16,3 +16,4 @@ This project was done to conduct an analysis on over 2000 cities from around the
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/102084269/168505306-34fc302a-90b1-48b2-a0d7-313a692b3f0d.PNG)
 ## Making a custom route oriented travel map for our clients
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/102084269/168505393-9e9f7f1b-287b-4d49-913e-aecd2d4ec263.PNG)
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/102084269/168505551-ab12ab8b-adb7-4b5e-a254-a200f983a4ce.PNG)
